@@ -1,2 +1,17 @@
-# Walmart-sales-forecasting
-End-to-end Walmart sales analysis project including data preprocessing, feature engineering and exploratory data analysis (EDA). Forecasting model coming soon.
+## Walmart-sales-forecasting
+### Project Overview
+This project focuses on analyzing and forecasting Walmart weekly sales.
+### Key Steps
+- Data Cleaning
+- Feature Engineering
+- Exploratory Data Analysis (EDA)
+- Visualization (Graphs)
+- Forecasting (Coming soon)
+### Tools Used
+- Python
+- Pandas
+- Numpy
+- Matplotlib
+- Jupyter notebook
+### Output
+Graphs and insights are included inside the notebook.
